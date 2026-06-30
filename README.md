@@ -27,3 +27,7 @@ If you encounter any issues or have ideas for new features, please help improve 
 
 > **Found a bug or have a suggestion?**
 > Please share your feedback and get direct support in our [Discord server](https://discord.gg/k279BvZ638).
+
+**Copyright (c) 2026 [Hoogkids]**
+**Licensed under the Creative Commons Attribution 4.0 International License.**
+**To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/**
