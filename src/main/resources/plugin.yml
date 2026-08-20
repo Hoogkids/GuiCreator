@@ -1,0 +1,19 @@
+name: GuiCreator
+version: '1.3-SNAPSHOT'
+main: com.guicreator.guiCreator.GuiCreator
+api-version: '1.21'
+author: Hoogkids
+softdepend:
+  - Vault
+  - PlaceholderAPI
+commands:
+  guicreator:
+    description: Open the visual GUI management framework canvas.
+    permission: guicreator.admin
+    permission-default: op
+    usage: /guicreator [create/edit/delete/list/help]
+    aliases:
+      - gc
+      - guic
+      - creategui
+ 
